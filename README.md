@@ -4,4 +4,4 @@
 
 Этот репозиторий является каркасом для будущего веб-приложения.
 
-## Ссылки- [Публичная страница на GitHub Pages](https://ValerkaVel.github.io/my-project/)
+## Ссылки- [Публичная страница на GitHub Pages](https://valerkavel.github.io/my-project/)
